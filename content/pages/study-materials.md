@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains in-depth reviews of several topics related to the
   course, as well as midterm and final exam reviews.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
